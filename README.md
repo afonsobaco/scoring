@@ -9,7 +9,7 @@ An HTTP-based mini game back-end in Java which registers score points for differ
 - Swagger
 - H2 Database (embedded)
 - JUnit/Mockito
-- Loombok (for boilerplate)
+- Lombok (for boilerplate)
 
 ## Usage
 To start the application, run the following command
